@@ -7,10 +7,6 @@ title: Creator Camp Privacy Policy
 **Last Updated:** August 24, 2025
 ...
 
-# Creator Camp Privacy Policy
-
-**Last Updated:** August 24, 2025
-
 ## Introduction
 
 Creator Camp ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Creator Camp mobile application (the "App").
