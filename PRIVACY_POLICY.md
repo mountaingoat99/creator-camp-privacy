@@ -58,7 +58,7 @@ We implement appropriate security measures to protect your information:
 
 ### Account Control
 - **Update Information**: Modify your profile information at any time
-- **Delete Account**: Request complete deletion of your account and data
+- **Delete Account**: Users can delete their own data and account anytime they way or request complete deletion of your account and data
 - **Opt-Out**: Disable push notifications or location tracking
 
 ### Data Access
@@ -97,7 +97,7 @@ We implement appropriate security measures to protect your information:
 - Profile information is kept current based on your updates
 
 ### Account Deletion
-- Upon account deletion, your data is permanently removed within 30 days
+- Upon account deletion, your data is permanently removed 
 - Some information may be retained longer if required by law
 
 ## Children's Privacy
@@ -119,7 +119,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
-**Email:** info@creatorcamp.com  
+**Email:** singlecogsoftware@gmail.com  
 **Subject Line:** Privacy Policy Inquiry
 
 ## Your Consent
