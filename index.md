@@ -1,3 +1,12 @@
+---
+layout: default
+title: Creator Camp Privacy Policy
+---
+
+# Creator Camp Privacy Policy
+**Last Updated:** August 24, 2025
+...
+
 # Creator Camp Privacy Policy
 
 **Last Updated:** August 24, 2025
