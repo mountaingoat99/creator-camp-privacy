@@ -8,9 +8,9 @@
 
 ### First Steps:
 1. **Download the app** from the App Store
-2. **Log In** using the temporary credentials 
-3. **Complete your profile** with photos, bio, and social links
-4. **Explore the community** and discover fellow creators
+2. **Explore** our creator community, events, and sponsors
+4. **Log In** using the temporary credentials 
+5. **Complete your profile** with photos, bio, and social links
 
 **Want to be featured as a creator?** If you're a photographer, videographer, or outdoor enthusiast who wants to be added to the Creator Camp community, send an email to: **singlecogsoftware@gmail.com**
 
