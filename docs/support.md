@@ -129,7 +129,7 @@
 ### Privacy & Data:
 - [Visit our Privacy Policy](https://mountaingoat99.github.io/creator-camp-privacy/)
 - **Data Usage**: Learn how we protect your information
-- **Account Deletion**: Instructions for removing your data
+- [Account Deletion](https://mountaingoat99.github.io/creator-camp-privacy/delete)
 
 ### Community Guidelines:
 - **Respectful Communication**: Treat all community members with respect
