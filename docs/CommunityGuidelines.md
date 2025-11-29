@@ -59,8 +59,8 @@ The following are not allowed under any circumstances:
 
 ## 4. Messaging Safety Rules
 
-* **Creator-to-Creator direct messages may be limited** or visible to admins for safety.
-* **Counselors and admins may monitor chats** to maintain a safe environment.
+* **Direct messages are visible** to admins for safety when a message or user is flagged.
+* **Admins may monitor chats** to maintain a safe environment.
 * **Screenshots of inappropriate behavior** may be taken by moderators for safety review.
 
 ---
@@ -73,7 +73,7 @@ Creator Camp uses a tiered enforcement approach. The severity of the violation d
 
 Examples: mild inappropriate language, off-topic spam.
 
-* Warning message from a admin or admin.
+* Warning message from an admin.
 * Temporary muting of chat features.
 
 ### 5.2 Tier 2 – Moderate Violations
@@ -81,21 +81,17 @@ Examples: mild inappropriate language, off-topic spam.
 Examples: repeated minor violations, disrespectful behavior.
 
 * Temporary chat suspension (hours or days).
-* Required meeting with a admin.
-* Notification to parent or guardian (for minors).
 
 ### 5.3 Tier 3 – Severe Violations
 
 Examples: bullying, harassment, hate speech, sharing personal information, sexual content.
 
-* Removal from group chats.
-* Full chat privileges suspended for the remainder of camp.
+* Removal from group and private chats.
 * Removal from the Creator Camp App.
-* Parent/guardian and leadership notified immediately.
 
 ### 5.4 Tier 4 – Critical Violations
 
-Examples: threats, sexual content directed at a minor, stalking, or any activity that endangers safety.
+Examples: threats, sexual content directed at anyone, stalking, or any activity that endangers safety.
 
 * Permanent removal from the app.
 * Report to legal authorities if required by law.
@@ -107,7 +103,8 @@ Examples: threats, sexual content directed at a minor, stalking, or any activity
 If you experience or witness behavior that violates these guidelines:
 
 * Use the **Report Message** option within the app.
-* Inform a admin or admin directly.
+* Inform an admin through a the Direct Message.
+* Email : singlecogsoftware@gmail.com
 * Serious reports are reviewed promptly to ensure user safety.
 
 All reports are handled discreetly. Retaliation against someone who files a report is strictly prohibited.
