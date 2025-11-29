@@ -104,7 +104,9 @@ If you experience or witness behavior that violates these guidelines:
 
 * Use the **Report Message** option within the app.
 * Inform an admin through a the Direct Message.
-* Email : singlecogsoftware@gmail.com
+* Contact Use Via Email.
+   * **Email:** singlecogsoftware@gmail.com  
+   * **Subject Line:** Creator Camp Community Guidelines Reporting   
 * Serious reports are reviewed promptly to ensure user safety.
 
 All reports are handled discreetly. Retaliation against someone who files a report is strictly prohibited.
