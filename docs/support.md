@@ -132,6 +132,7 @@
 - [Account Deletion](https://mountaingoat99.github.io/creator-camp-privacy/delete)
 
 ### Community Guidelines:
+- [Visit our Community Guidelines for Chat Policy](https://mountaingoat99.github.io/creator-camp-privacy/CommunityGuidelines)
 - **Respectful Communication**: Treat all community members with respect
 - **Content Standards**: Share appropriate, non-offensive content
 - **Professional Conduct**: Maintain professional behavior in all interactions
