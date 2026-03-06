@@ -1,5 +1,5 @@
 # Creator Camp Privacy Policy
-**Last Updated:** August 24, 2025
+**Last Updated:** February 28, 2026
 
 ## Introduction
 
@@ -57,7 +57,7 @@ We implement appropriate security measures to protect your information:
 
 ### Account Control
 - **Update Information**: Modify your profile information at any time
-- **Delete Account**: Users can delete their own data and account anytime they way or request complete deletion of your account and data
+- **Delete Account**: Request complete deletion of your account and data
 - **Opt-Out**: Disable push notifications or location tracking
 
 ### Data Access
@@ -89,14 +89,34 @@ We implement appropriate security measures to protect your information:
 - You can disable push notifications at any time through device settings
 - We respect your notification preferences
 
+## Chat and Messaging
+
+### What We Collect
+- **Message content**: Text, images, GIFs, and files you send
+- **Metadata**: Timestamps, participant IDs, sender names, media URLs
+- **Channel vs. DM**: Channel messages are visible to users with channel access; direct messages are visible only to the participants
+
+### Who Can Access Chat Data
+- **Participants**: You can read messages in conversations you participate in and channels you have access to
+- **Admins**: Authorized administrators may access messages for safety, moderation, and enforcement of our Community Guidelines
+- **Direct messages**: DMs are private between participants; admins access them only when a message is flagged for review
+
+### AI Moderation
+We use automated tools to scan public channel messages for policy violations. Message text and images may be processed by a trusted third-party service (OpenAI Moderation API) solely for content moderation. We do not use this data for advertising or any purpose other than keeping our community safe.
+
 ## Data Retention
 
 ### Active Accounts
 - Your data is retained while your account is active
 - Profile information is kept current based on your updates
 
+### Chat Message Retention
+- **Active messages**: Retained while your account is active
+- **Soft-deleted messages**: Retained for up to 90 days for safety appeals and audit purposes
+- **Moderation records**: User-reported flags (flagged_content) and AI-flagged records (ai_flagged_messages) are retained for moderation history and safety
+
 ### Account Deletion
-- Upon account deletion, your data is permanently removed 
+- Upon account deletion, your data is permanently removed within 30 days
 - Some information may be retained longer if required by law
 
 ## Children's Privacy
