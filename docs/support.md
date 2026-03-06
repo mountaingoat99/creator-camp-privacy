@@ -180,6 +180,7 @@
 - **Report inappropriate behavior** to our support team
 
 ### Data Management:
+- **Delete your account and data** anytime from Settings > User Account > Delete Account
 - **Download your data** before deleting your account
 - **Understand what happens** to your data after deletion
 - **Contact support** for data export requests

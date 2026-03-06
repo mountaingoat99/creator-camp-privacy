@@ -57,7 +57,7 @@ We implement appropriate security measures to protect your information:
 
 ### Account Control
 - **Update Information**: Modify your profile information at any time
-- **Delete Account**: Request complete deletion of your account and data
+- **Delete Account**: Delete your account and data from the User Account page in Settings
 - **Opt-Out**: Disable push notifications or location tracking
 
 ### Data Access
