@@ -102,11 +102,9 @@ Examples: threats, sexual content directed at anyone, stalking, or any activity 
 
 If you experience or witness behavior that violates these guidelines:
 
-* Use the **Report Message** option within the app.
-* Inform an admin through a the Direct Message.
-* Contact Use Via Email.
-   * **Email:** singlecogsoftware@gmail.com  
-   * **Subject Line:** Creator Camp Community Guidelines Reporting   
+* **Report in-app:** Long-press the message and select "Report", then choose a reason. This is the fastest way for us to review.
+* **Or email us** at singlecogsoftware@gmail.com with details if you prefer or if the issue is outside the app.
+   * **Subject Line:** Creator Camp Community Guidelines Reporting
 * Serious reports are reviewed promptly to ensure user safety.
 
 All reports are handled discreetly. Retaliation against someone who files a report is strictly prohibited.
@@ -115,7 +113,7 @@ All reports are handled discreetly. Retaliation against someone who files a repo
 
 ## 7. Appeals
 
-If your privileges are restricted, you may request a review by submitting an appeal to the Creator Camp admin team. Decisions are made with user safety as the top priority.
+If your privileges are restricted, you may request a review by submitting an appeal to the Creator Camp admin team. Email singlecogsoftware@gmail.com with subject line **Appeal: [your name/email]** and include the date of the action and your explanation. We aim to respond within 5 business days. Decisions are made with user safety as the top priority.
 
 ---
 
