@@ -1,5 +1,6 @@
 # Creator Camp Privacy Policy
-**Last Updated:** February 28, 2026
+
+**Last Updated:** March 7, 2026
 
 ## Introduction
 
@@ -18,7 +19,7 @@ Creator Camp ("we," "our," or "us") is committed to protecting your privacy. Thi
 
 ### Technical Information
 - **Device Information**: Device type, operating system version, and app version
-- **Usage Analytics**: Basic app usage statistics to improve functionality
+- **Usage Analytics**: Anonymous app usage statistics (screen views, feature usage, session data) collected solely to improve app functionality. Analytics data is **never used for advertising, tracking, or shared with third parties**. You can disable analytics collection at any time from Settings > User Account.
 
 ## How We Use Your Information
 
@@ -58,7 +59,7 @@ We implement appropriate security measures to protect your information:
 ### Account Control
 - **Update Information**: Modify your profile information at any time
 - **Delete Account**: Delete your account and data from the User Account page in Settings
-- **Opt-Out**: Disable push notifications or location tracking
+- **Opt-Out**: Disable push notifications, location tracking, or analytics collection
 
 ### Data Access
 - **View Your Data**: Access the personal information we have about you
@@ -77,6 +78,8 @@ We implement appropriate security measures to protect your information:
 - Location information is never displayed on maps outside venue boundaries
 - Only distance from venue is shown in list form when outside boundaries
 - Location data is automatically deleted when you disable tracking
+- Administrators and counselors can view opted-in users' locations on a venue map for event coordination and safety purposes
+- Location data is **not shared with any third parties** and is used exclusively within the app
 
 ## Push Notifications
 
@@ -102,7 +105,7 @@ We implement appropriate security measures to protect your information:
 - **Direct messages**: DMs are private between participants; admins access them only when a message is flagged for review
 
 ### AI Moderation
-We use automated tools to scan public channel messages for policy violations. Message text and images may be processed by a trusted third-party service (OpenAI Moderation API) solely for content moderation. We do not use this data for advertising or any purpose other than keeping our community safe.
+We use automated tools to scan **all messages — including both public channel messages and direct messages (DMs)** — for policy violations. Message text and images may be processed by a trusted third-party service (OpenAI Moderation API) solely for content moderation. We do not use this data for advertising or any purpose other than keeping our community safe. Flagged content is reviewed by authorized administrators only.
 
 ## Data Retention
 
@@ -119,9 +122,9 @@ We use automated tools to scan public channel messages for policy violations. Me
 - Upon account deletion, your data is permanently removed within 30 days
 - Some information may be retained longer if required by law
 
-## Children's Privacy
+## Age Requirement and Children's Privacy
 
-Creator Camp is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us immediately.
+Creator Camp is intended for users **18 years of age or older**. We do not knowingly collect personal information from anyone under 18. If you believe we have collected information from a minor, please contact us immediately and we will take steps to remove that information.
 
 ## International Users
 
