@@ -2,6 +2,18 @@
 
 **Last Updated:** March 7, 2026
 
+---
+
+### Documentation
+
+- [Privacy Policy](https://mountaingoat99.github.io/creator-camp-privacy/) — How we collect, use, and protect your information
+- [Community Guidelines](https://mountaingoat99.github.io/creator-camp-privacy/CommunityGuidelines) — Expected behavior and content policies for chat and community features
+- [Child Safety Standards](https://mountaingoat99.github.io/creator-camp-privacy/safety) — Our zero-tolerance policy for CSAM/CSE and how to report violations
+- [Delete Your Account](https://mountaingoat99.github.io/creator-camp-privacy/delete) — How to delete your Creator Camp account and data
+- [Support & Help Center](https://mountaingoat99.github.io/creator-camp-privacy/support) — App features, common issues, permissions, and support contact
+
+---
+
 ## Introduction
 
 Creator Camp ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Creator Camp mobile application (the "App").
