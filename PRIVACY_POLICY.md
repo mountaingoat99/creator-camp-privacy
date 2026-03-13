@@ -90,7 +90,6 @@ We implement appropriate security measures to protect your information:
 - Location information is never displayed on maps outside venue boundaries
 - Only distance from venue is shown in list form when outside boundaries
 - Location data is automatically deleted when you disable tracking
-- Administrators can view opted-in users' locations on a venue map for event coordination and safety purposes
 - Location data is **not shared with any third parties** and is used exclusively within the app
 
 ## Push Notifications
