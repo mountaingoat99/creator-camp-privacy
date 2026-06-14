@@ -71,6 +71,7 @@ We implement appropriate security measures to protect your information:
 ### Venue-Only Tracking
 - Location tracking is **opt-in only** and **disabled by default**
 - When enabled, tracking is **limited to defined venue boundaries only**
+- When enabled, only other authenticated, logged in users such as creators, directors or counselors can view your location. The general public (unathenticated users) cannot see your location. 
 - **No location data is shared** with other users or third parties
 - Location data is used solely for venue-specific app features
 
