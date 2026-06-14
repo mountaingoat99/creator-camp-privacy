@@ -1,6 +1,6 @@
 # Creator Camp Support & Help Center
 
-**Last Updated:** February 28, 2026
+**Last Updated:** June 14, 2026
 
 ## 🚀 Getting Started
 
