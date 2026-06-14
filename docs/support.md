@@ -91,6 +91,11 @@
 - **When**: Only when you choose to browse your photo library
 - **Privacy**: We only access photos you specifically select
 
+### File Access:
+- **Used for**: Sharing files in chat, uploading sponsor logos, or uploading photos or videos for contest submissions
+- **When**: Only when you choose to browse your device's file system
+- **Privacy**: Files are stored securely and never shared without permission
+
 ### Location Services:
 - **Used for**: Venue-specific features and creator discovery
 - **When**: Only when you opt-in and are within camp boundaries
