@@ -1,6 +1,6 @@
 # Creator Camp Privacy Policy
 
-**Last Updated:** March 7, 2026
+**Last Updated:** June 14, 2026
 
 ## Introduction
 
