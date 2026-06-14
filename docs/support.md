@@ -39,6 +39,7 @@
 ### Location Features (Opt-in):
 - **Venue tracking** is completely optional and disabled by default
 - **When enabled**, location sharing is limited to defined camp boundaries only
+- **When enabled**, only other authenticated, logged in users such as creators, directors or counselors can view your location. The general public (unathenticated users) cannot see your location.
 - **Your location is never shared** with other users or third parties
 - **Easy to disable** at any time through app settings
 
