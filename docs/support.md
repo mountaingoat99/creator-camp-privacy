@@ -149,6 +149,14 @@
 
 
 
+### Motion & Fitness / Activity Recognition:
+
+- **Used for**: Detecting when you're stationary during venue tracking, so we can update your location less often and save battery
+- **When**: Only requested if you opt-in to venue location tracking
+- **Privacy**: Motion data is processed on your device only and is never shared with other users or third parties
+
+
+
 ### Push Notifications:
 
 - **Used for**: Important updates about challenges, events, and messages
@@ -208,7 +216,7 @@ Winman Trails may edit, crop, or format uploaded content as needed for promotion
 
 - [Visit our Privacy Policy](https://mountaingoat99.github.io/creator-camp-privacy/)
 - **Data Usage**: Learn how we protect your information
-- **Account Deletion**: Instructions for removing your data
+- [**Account Deletion**](delete.md): Instructions for removing your data
 
 
 

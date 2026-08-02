@@ -137,6 +137,15 @@ We implement appropriate security measures to protect your information:
 
 
 
+### Motion & Activity Data
+
+- While venue location tracking is enabled, the app may request Motion & Fitness (iOS) or Activity Recognition (Android) permission
+- This is used **only** to detect when you are stationary, so we can update your location less often and save your device's battery during venue tracking
+- Motion data is processed entirely on your device — it is **never transmitted, stored, or shared** with us, other users, or third parties
+- This permission is only requested when you opt-in to venue tracking, and is used exclusively for this battery-saving purpose
+
+
+
 ## Push Notifications
 
 

@@ -89,7 +89,7 @@ We implement appropriate security measures to protect your information:
 ### Account Control
 
 - **Update Information**: Modify your profile information at any time
-- **Delete Account**: Delete your account and data from the User Account page in Settings
+- **Delete Account**: Delete your account and data from the User Account page in Settings, or see our [Account Deletion instructions](delete.md) if you no longer have access to the app
 - **Opt-Out**: Disable push notifications, location tracking, or analytics collection
 
 
@@ -122,6 +122,15 @@ We implement appropriate security measures to protect your information:
 - Only distance from venue is shown in list form when outside boundaries
 - Location data is automatically deleted when you disable tracking
 - Location data is **not shared with any third parties** and is used exclusively within the app
+
+
+
+### Motion & Activity Data
+
+- While venue location tracking is enabled, the app may request Motion & Fitness (iOS) or Activity Recognition (Android) permission
+- This is used **only** to detect when you are stationary, so we can update your location less often and save your device's battery during venue tracking
+- Motion data is processed entirely on your device — it is **never transmitted, stored, or shared** with us, other users, or third parties
+- This permission is only requested when you opt-in to venue tracking, and is used exclusively for this battery-saving purpose
 
 
 
