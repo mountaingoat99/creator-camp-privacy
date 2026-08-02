@@ -55,6 +55,7 @@
 - **Venue tracking** is completely optional and disabled by default
 - **When enabled**, location sharing is limited to defined camp boundaries only
 - **When enabled**, only other authenticated, logged in users such as creators, directors or counselors can view your location. The general public (unathenticated users) cannot see your location. 
+- The app only asks for **"While Using the App"** location access, never "Always" — but once enabled, updates continue briefly in the background or with your screen locked so your position stays current
 - **Your location is never shared** with other users or third parties
 - **Easy to disable** at any time through app settings
 
@@ -144,7 +145,7 @@
 ### Location Services:
 
 - **Used for**: Venue-specific features and creator discovery
-- **When**: Only when you opt-in and are within camp boundaries
+- **When**: Only when you opt-in and are within camp boundaries — including brief background use (screen locked or app minimized) so your position stays current on the venue map
 - **Privacy**: Location data is never shared with other users or third parties
 
 

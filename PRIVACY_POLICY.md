@@ -123,6 +123,8 @@ We implement appropriate security measures to protect your information:
 - Location tracking is **opt-in only** and **disabled by default**
 - When enabled, tracking is **limited to defined venue boundaries only**
 - When enabled, only other authenticated, logged in users such as creators, directors or counselors can view your location. The general public (unathenticated users) cannot see your location. 
+- The app only ever requests **"While Using the App"** location access — it never requests "Always" access
+- Once opted in, location updates continue briefly while the app is in the background or your screen is locked, so your position on the venue map stays current for event staff coordination
 - **No location data is shared** with other users or third parties
 - Location data is used solely for venue-specific app features
 
