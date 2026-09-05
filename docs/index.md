@@ -207,7 +207,9 @@ We use automated tools to scan **all messages — including both public channel 
 
 ### Who Can See Your Entry
 
-- **Everyone**: Challenge entries are public. They are visible to all app users and to visitors browsing the app without an account, so that the community can view entries before voting.
+- **Everyone**: Published challenge entries are public. They are visible to all app users and to visitors browsing the app without an account, so that the community can view entries before voting.
+- **Photos** are published as soon as they are uploaded, and are checked automatically (see Moderation of Entries below).
+- **Videos are not published straight away.** Every video waits for an administrator to review it. Until it is approved, only you and your teammates can see it, and it is marked "Awaiting review" in the app.
 - **Do not submit anything you are not comfortable sharing publicly**, and only submit content you own or have permission to share.
 - **Your identity**: Entries are displayed with your creator name and photo. For team entries, the team name and both members are shown.
 - **Voting is separate**: Who voted for which entry is never shown publicly, and administrators see only vote totals.
@@ -219,7 +221,14 @@ We use automated tools to scan **all messages — including both public channel 
 - **You control your entry**: Submitting a new entry replaces your previous one for that challenge, and you can remove your entry. For team entries, either member can replace or remove the shared entry.
 - **Reporting**: Any signed-in user can report an entry from within the app. Visitors without an account can report an entry by email. Reports include the reporting account and are visible only to administrators.
 - **Administrator removal**: Administrators may remove any entry that violates our Community Guidelines.
-- **Review method**: Unlike chat messages, challenge entries are **not** scanned by automated moderation tools. They are reviewed by administrators in response to reports.
+
+
+### Moderation of Entries
+
+- **Photos** are scanned automatically when uploaded. The image is sent to a trusted third-party service (OpenAI Moderation API) solely to check it against our content policies. If it is flagged, the photo is removed from public view immediately and held for an administrator to review.
+- **Videos cannot be scanned** by that service, which accepts only text and images. Every video is therefore reviewed by an administrator before it is published. We also check the video's cover image automatically to help that review.
+- **Audio is not analysed.** Neither the automatic check nor the cover-image check evaluates the sound in a video.
+- **We do not use this data for advertising** or for any purpose other than keeping the community safe. Flagged content is reviewed by authorized administrators only.
 
 ## Data Retention
 

@@ -107,6 +107,7 @@ If you experience or witness behavior that violates these guidelines:
 
 * **Report a chat message in-app:** Long-press the message and select "Report", then choose a reason. This is the fastest way for us to review.
 * **Report a challenge entry in-app:** Open the entry from the challenge, then use the flag icon (or long-press the entry) and select "Report". Signed-in members can report an entry directly; anyone browsing without an account is given an email report option instead.
+* **Entries are moderated:** Submitted photos are checked automatically before they appear, and every submitted video is reviewed by an administrator before it is published.
 * **Or email us** at singlecogsoftware@gmail.com with details if you prefer or if the issue is outside the app.
    * **Subject Line:** Creator Camp Community Guidelines Reporting
 * Serious reports are reviewed promptly to ensure user safety.

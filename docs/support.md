@@ -55,6 +55,7 @@
 - **Browse challenges** from the Challenges tab to see what's running, what's coming up, and past results
 - **View entries**: Tap **Entries** on any challenge to see what everyone has submitted. Entries are public — anyone using the app can view them, including visitors who are not signed in
 - **Submit an entry**: Open the challenge's Entries screen and tap **Submit entry**. Choose one photo or one video (up to 3 minutes), add an optional caption, and confirm the content agreement
+- **When your entry appears**: Photos go live straight away and are checked automatically. **Videos are posted after an admin reviews them** — yours shows as "Awaiting review" and is visible only to you and your teammates until it is approved
 - **Submission window**: Entries are accepted from the moment a challenge starts until it ends. Once a challenge is over, submissions close — voting happens afterward
 - **One entry per challenge**: Submitting again replaces your previous entry. Creators on a team share a single entry, and either teammate can replace or remove it
 - **Videos** are compressed on your device before uploading, so large files take a moment to prepare. Keep the app open until the upload finishes, and use Wi-Fi when you can
