@@ -58,7 +58,7 @@
 - **When your entry appears**: Photos go live straight away and are checked automatically. **Videos are posted after an admin reviews them** — yours shows as "Awaiting review" and is visible only to you and your teammates until it is approved
 - **Submission window**: Entries are accepted from the moment a challenge starts until it ends. Once a challenge is over, submissions close — voting happens afterward
 - **One entry per challenge**: Submitting again replaces your previous entry. Creators on a team share a single entry, and either teammate can replace or remove it
-- **Videos** are compressed on your device before uploading, so large files take a moment to prepare. Keep the app open until the upload finishes, and use Wi-Fi when you can
+- **Videos** up to 500 MB upload exactly as you exported them. Larger videos are compressed to 1080p on your device before uploading, which can take a few minutes. Keep the app open until the upload finishes, and use Wi-Fi when you can
 - **Reporting an entry**: Use the flag icon while viewing an entry, or long-press it in the grid. Signed-in users can report in the app; if you are browsing without an account, you will be given an option to report by email
 
 
