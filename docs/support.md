@@ -44,9 +44,21 @@
 ### Connecting with Others:
 
 - **Send direct messages** to creators you'd like to connect with - upcoming feature
-- **Participate in community discussions** and challenges - upcoming feature
+- **Participate in camp challenges** by submitting an entry and voting on your favorites (see below)
 - **Share your work** and get feedback from peers - upcoming feature
 - **Build your professional network** within the Creator Camp community
+
+
+
+### Challenges and Entries:
+
+- **Browse challenges** from the Challenges tab to see what's running, what's coming up, and past results
+- **View entries**: Tap **Entries** on any challenge to see what everyone has submitted. Entries are public — anyone using the app can view them, including visitors who are not signed in
+- **Submit an entry**: Open the challenge's Entries screen and tap **Submit entry**. Choose one photo or one video (up to 3 minutes), add an optional caption, and confirm the content agreement
+- **Submission window**: Entries are accepted from the moment a challenge starts until it ends. Once a challenge is over, submissions close — voting happens afterward
+- **One entry per challenge**: Submitting again replaces your previous entry. Creators on a team share a single entry, and either teammate can replace or remove it
+- **Videos** are compressed on your device before uploading, so large files take a moment to prepare. Keep the app open until the upload finishes, and use Wi-Fi when you can
+- **Reporting an entry**: Use the flag icon while viewing an entry, or long-press it in the grid. Signed-in users can report in the app; if you are browsing without an account, you will be given an option to report by email
 
 
 
@@ -128,9 +140,9 @@
 
 ### Photo Library Access:
 
-- **Used for**: Selecting existing photos for your profile or creator specific content
+- **Used for**: Selecting existing photos for your profile or creator specific content, and choosing the photo or video you submit as a challenge entry
 - **When**: Only when you choose to browse your photo library
-- **Privacy**: We only access photos you specifically select
+- **Privacy**: We only access the photos and videos you specifically select
 
 
 
@@ -166,7 +178,7 @@
 
 
 ### Creator Specific Content Usage Agreement
-When you are assigned a creator account and participate in Winman Creator Camp, you agree that any photos, videos, or other content you upload through the app may be used by Winman Trails for advertising and promotional purposes, including on social media, websites, print materials, and other marketing channels, year-round and without additional compensation.
+When you are assigned a creator account and participate in Winman Creator Camp, you agree that any photos, videos, or other content you upload through the app — including the entries you submit to camp challenges — may be used by Winman Trails for advertising and promotional purposes, including on social media, websites, print materials, and other marketing channels, year-round and without additional compensation.
 
 This license is non-exclusive and royalty-free — you retain ownership of your content and are free to use or share it elsewhere. By uploading content, you confirm that you own the rights to it or have permission to share it, and that it does not infringe on the rights of any third party.
 

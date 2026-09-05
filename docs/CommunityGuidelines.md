@@ -1,6 +1,8 @@
 # Creator Camp Community Guidelines
 
-Welcome to Creator Camp! Our goal is to provide a safe, supportive, and inspiring environment for all creators. These Community Guidelines explain what is expected of everyone using chat and community features within the Creator Camp App, and what happens if someone violates these expectations.
+Welcome to Creator Camp! Our goal is to provide a safe, supportive, and inspiring environment for all creators. These Community Guidelines explain what is expected of everyone using chat, challenge entries, and other community features within the Creator Camp App, and what happens if someone violates these expectations.
+
+They apply to everything you post or upload in the app, including chat messages, images, and the photos and videos you submit as challenge entries.
 
 ---
 
@@ -12,7 +14,7 @@ These rules exist to:
 * Protect creators, admins, sponsors, and staff.
 * Ensure that interactions reflect the values of Creator Camp.
 
-By using the chat features in the app, you agree to follow these guidelines.
+By using the chat features or submitting a challenge entry in the app, you agree to follow these guidelines.
 
 ---
 
@@ -43,6 +45,7 @@ The following are not allowed under any circumstances:
 * Profanity, sexually suggestive content, or graphic content.
 * Hate speech or discriminatory language.
 * Violent, explicit, or disturbing imagery or messages.
+* Challenge entries containing any of the above, or content you do not have the rights to share.
 
 ### 3.3 Privacy and Security Violations
 
@@ -102,7 +105,8 @@ Examples: threats, sexual content directed at anyone, stalking, or any activity 
 
 If you experience or witness behavior that violates these guidelines:
 
-* **Report in-app:** Long-press the message and select "Report", then choose a reason. This is the fastest way for us to review.
+* **Report a chat message in-app:** Long-press the message and select "Report", then choose a reason. This is the fastest way for us to review.
+* **Report a challenge entry in-app:** Open the entry from the challenge, then use the flag icon (or long-press the entry) and select "Report". Signed-in members can report an entry directly; anyone browsing without an account is given an email report option instead.
 * **Or email us** at singlecogsoftware@gmail.com with details if you prefer or if the issue is outside the app.
    * **Subject Line:** Creator Camp Community Guidelines Reporting
 * Serious reports are reviewed promptly to ensure user safety.

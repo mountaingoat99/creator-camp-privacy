@@ -1,6 +1,6 @@
 # Creator Camp Privacy Policy
 
-**Last Updated:** July 11, 2026
+**Last Updated:** September 5, 2026
 
 ---
 
@@ -24,6 +24,7 @@ Creator Camp ("we," "our," or "us") is committed to protecting your privacy. Thi
 
 - **Account Information**: Name, email address, and profile photos when you create an account
 - **Profile Data**: Information you provide in your creator profile, including bio, social media links, and professional details
+- **Challenge Entries**: Photos and videos you submit to camp challenges, along with any caption you add. See [Challenge Entries](#challenge-entries) below for how these are shared.
 - **Location Data**: Venue-specific location information when you opt-in to location tracking (only within defined venue boundaries)
 
 
@@ -31,7 +32,7 @@ Creator Camp ("we," "our," or "us") is committed to protecting your privacy. Thi
 ### App Usage Information
 
 - **Push Notifications**: Device tokens for delivering important updates about challenges, director messages, and creator information
-- **App Permissions**: Camera access for profile photo uploads, photo library access for selecting existing images, and file access for sponsor image uploads and sharing files in chat
+- **App Permissions**: Camera access for profile photo uploads, photo library access for selecting existing photos and videos (including challenge entries), and file access for sponsor image uploads and sharing files in chat
 
 
 
@@ -192,6 +193,34 @@ We implement appropriate security measures to protect your information:
 
 We use automated tools to scan **all messages — including both public channel messages and direct messages (DMs)** — for policy violations. Message text and images may be processed by a trusted third-party service (OpenAI Moderation API) solely for content moderation. We do not use this data for advertising or any purpose other than keeping our community safe. Flagged content is reviewed by authorized administrators only.
 
+## Challenge Entries
+
+
+
+### What We Collect
+
+- **Entry media**: The photo or video you submit for a challenge
+- **Caption**: Any optional text you add to your entry
+- **Attribution**: The creator profile the entry is submitted under, and the account that uploaded it
+
+
+
+### Who Can See Your Entry
+
+- **Everyone**: Challenge entries are public. They are visible to all app users and to visitors browsing the app without an account, so that the community can view entries before voting.
+- **Do not submit anything you are not comfortable sharing publicly**, and only submit content you own or have permission to share.
+- **Your identity**: Entries are displayed with your creator name and photo. For team entries, the team name and both members are shown.
+- **Voting is separate**: Who voted for which entry is never shown publicly, and administrators see only vote totals.
+
+
+
+### Removing and Reporting Entries
+
+- **You control your entry**: Submitting a new entry replaces your previous one for that challenge, and you can remove your entry. For team entries, either member can replace or remove the shared entry.
+- **Reporting**: Any signed-in user can report an entry from within the app. Visitors without an account can report an entry by email. Reports include the reporting account and are visible only to administrators.
+- **Administrator removal**: Administrators may remove any entry that violates our Community Guidelines.
+- **Review method**: Unlike chat messages, challenge entries are **not** scanned by automated moderation tools. They are reviewed by administrators in response to reports.
+
 ## Data Retention
 
 
@@ -211,9 +240,18 @@ We use automated tools to scan **all messages — including both public channel 
 
 
 
+### Challenge Entry Retention
+
+- **Active entries**: Retained while the challenge and your account remain active, so past challenge results stay viewable
+- **Replaced entries**: When you submit a new entry for a challenge, the previous photo or video is deleted
+- **Removed entries**: Entries you or an administrator remove are deleted, along with any reports filed against them
+
+
+
 ### Account Deletion
 
 - Upon account deletion, your data is permanently removed within 30 days
+- This includes challenge entries you uploaded and the photos or videos stored with them
 - Some information may be retained longer if required by law
 
 
@@ -242,7 +280,7 @@ By using Creator Camp, you consent to the collection and use of your information
 
 ### Creator Specific Content Usage Agreement
 
-When you are assigned a creator account and participate in Winman Creator Camp, you agree that any photos, videos, or other content you upload through the app may be used by Winman Trails for advertising and promotional purposes, including on social media, websites, print materials, and other marketing channels, year-round and without additional compensation.
+When you are assigned a creator account and participate in Winman Creator Camp, you agree that any photos, videos, or other content you upload through the app — including the entries you submit to camp challenges — may be used by Winman Trails for advertising and promotional purposes, including on social media, websites, print materials, and other marketing channels, year-round and without additional compensation.
 
 This license is non-exclusive and royalty-free — you retain ownership of your content and are free to use or share it elsewhere. By uploading content, you confirm that you own the rights to it or have permission to share it, and that it does not infringe on the rights of any third party.
 
