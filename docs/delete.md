@@ -16,7 +16,7 @@ If you created a Creator Camp account, you may delete your account and all relat
 ## If you cannot access the app
 If you no longer have access to the app or your login, you can request deletion by contacting us:
 
-📧 Email: [singlecogsoftware@gmail.com](mailto:singlecogsoftware@gmail.com)  
+📧 Email: [contact@singlecogsoftware.com](mailto:contact@singlecogsoftware.com)  
 
 Please include the email address associated with your account so we can verify and complete your request.
 

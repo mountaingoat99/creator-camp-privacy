@@ -13,7 +13,7 @@
 3. **Complete your profile** with photos, bio, and social links
 4. **Explore the community** and discover fellow creators
 
-**Want to be featured as a creator?** If you're a photographer, videographer, or outdoor enthusiast who wants to be added to the Creator Camp community, send an email to: **[singlecogsoftware@gmail.com](mailto:singlecogsoftware@gmail.com)**
+**Want to be featured as a creator?** If you're a photographer, videographer, or outdoor enthusiast who wants to be added to the Creator Camp community, send an email to: **[contact@singlecogsoftware.com](mailto:contact@singlecogsoftware.com)**
 
 ---
 
@@ -195,7 +195,7 @@ Winman Trails may edit, crop, or format uploaded content as needed for promotion
 
 ### Contact Our Support Team:
 
-- **Email**: [singlecogsoftware@gmail.com](mailto:singlecogsoftware@gmail.com)
+- **Email**: [contact@singlecogsoftware.com](mailto:contact@singlecogsoftware.com)
 - **Subject Line**: Support Request - [Brief Description]
 - **Response Time**: Within 24 hours during business days
 

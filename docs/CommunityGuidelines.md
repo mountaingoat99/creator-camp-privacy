@@ -108,7 +108,7 @@ If you experience or witness behavior that violates these guidelines:
 * **Report a chat message in-app:** Long-press the message and select "Report", then choose a reason. This is the fastest way for us to review.
 * **Report a challenge entry in-app:** Open the entry from the challenge, then use the flag icon (or long-press the entry) and select "Report". Signed-in members can report an entry directly; anyone browsing without an account is given an email report option instead.
 * **Entries are moderated:** Submitted photos are checked automatically before they appear, and every submitted video is reviewed by an administrator before it is published.
-* **Or email us** at singlecogsoftware@gmail.com with details if you prefer or if the issue is outside the app.
+* **Or email us** at contact@singlecogsoftware.com with details if you prefer or if the issue is outside the app.
    * **Subject Line:** Creator Camp Community Guidelines Reporting
 * Serious reports are reviewed promptly to ensure user safety.
 
@@ -118,7 +118,7 @@ All reports are handled discreetly. Retaliation against someone who files a repo
 
 ## 7. Appeals
 
-If your privileges are restricted, you may request a review by submitting an appeal to the Creator Camp admin team. Email singlecogsoftware@gmail.com with subject line **Appeal: [your name/email]** and include the date of the action and your explanation. We aim to respond within 5 business days. Decisions are made with user safety as the top priority.
+If your privileges are restricted, you may request a review by submitting an appeal to the Creator Camp admin team. Email contact@singlecogsoftware.com with subject line **Appeal: [your name/email]** and include the date of the action and your explanation. We aim to respond within 5 business days. Decisions are made with user safety as the top priority.
 
 ---
 

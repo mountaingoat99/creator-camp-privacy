@@ -303,7 +303,7 @@ Winman Trails may edit, crop, or format uploaded content as needed for promotion
 
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
-**Email:** [singlecogsoftware@gmail.com](mailto:singlecogsoftware@gmail.com)  
+**Email:** [contact@singlecogsoftware.com](mailto:contact@singlecogsoftware.com)  
 **Subject Line:** Privacy Policy Inquiry
 
 *This Privacy Policy is effective as of the date listed above and applies to all users of the Creator Camp mobile application.*
